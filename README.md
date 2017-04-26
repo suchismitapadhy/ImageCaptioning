@@ -1,1 +1,1 @@
-# caption-generator
+# image-captioning
